@@ -1,2 +1,2 @@
-# JavaScript Algorithms and Data Structures Certification
+# Front End Development Libraries
 #freeCodeCamp
